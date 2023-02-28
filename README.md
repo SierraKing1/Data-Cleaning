@@ -1,6 +1,6 @@
 **Description**
 
-The Tableau project for Airbnb in Nashville, TN.  in 2023 reveals interesting insights into the pricing trends for Airbnb listings in the area. One key observation is that the average price of listings is almost steady throughout the year, with the exception of an increase in July.
+The Tableau project for [Airbnb Housing in Nashville, TN.](https://public.tableau.com/app/profile/sierra.king/viz/AirBnBFullProject_16763445593400/Dashboard1) in 2023 reveals interesting insights into the pricing trends for Airbnb listings in the area. One key observation is that the average price of listings is almost steady throughout the year, with the exception of an increase in July.
 
 Upon further investigation, this increase in price in July could be due to the fact that it is a peak tourist season for Nashville, due to school being out. With more visitors coming to the city during the summer months, the demand for Airbnb accommodations increases, leading to an increase in pricing.
 
